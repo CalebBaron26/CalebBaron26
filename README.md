@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @CalebBaron26
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Go Lang
+- 🌱 I’m currently learning Java Full Stack
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me ...baronpidakala@gmail.com
 - 😄 Pronouns: ...He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Never try to feel my shirt, coz its made of ????
 
 <!---
 CalebBaron26/CalebBaron26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
